@@ -1,19 +1,19 @@
-<h3 align="center"> SIP-USERBOT || BRYAN</h3>
+<h3 align="center"> XYLOID-USERBOT || BRYAN</h3>
 
 ![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
 
 ---
 
 <h3 align="center">
-  Welcome to sip-UserbotDev's profile!
+  Welcome to xyloid-UserbotDev's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sip-userbot&label=Profile%20views&color=0e75b6&style=plastic" alt="sip-userbot" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axallll&label=Profile%20views&color=0e75b6&style=plastic" alt="axallll" /> </p>
 
-<!-- Typing SVG by sip-Userbot- https://github.com/sip-Userbot/readme-typing-svg -->
+<!-- Typing SVG by axallll- https://github.com/axallll/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/sip-Userbot/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/axallll/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
@@ -25,7 +25,7 @@
 
 [<img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sipdev">](https://metrics.lecoq.io/ouuan?template=classic)
 
-I'm sip-Userbot Bryan.
+I'm xyloid-Userbot Bryan.
 
 -   :hammer_and_pick: Javascript / Dart / C++
 -   :pencil2: Ubuntu
@@ -61,7 +61,7 @@ I'm sip-Userbot Bryan.
 
 ---
 
-I'm sip || Bryan, student at Syafi'i Akrom.
+I'm xyloid || Bryan, student at Syafi'i Akrom.
 
 -   :hammer_and_pick: Javascript / Dart / C++
 -   :pencil2: Ubuntu
@@ -81,12 +81,12 @@ I'm sip || Bryan, student at Syafi'i Akrom.
 ![Stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sip-userbotdev)
 ![](https://custom-icon-badges.herokuapp.com/github/followers/nathdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)
 [![Custom badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Mr_cardd/)
-[![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sipdev/)
+[![Custom badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/axalllldev/)
 [![Custom badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Klyuserbot)
-[![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://sipdev.com/)
-[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sip-userbot)
-[![Custom badge](https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sipdev)
-[![Custom badge](https://img.shields.io/badge/devdojo-100000?style=for-the-badge&logo=devdojo&logoColor=white)](https://devdojo.com/sipdev) -->
+[![Custom badge](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://axalllldev.com/)
+[![Custom badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axallll)
+[![Custom badge](https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/axalllldev)
+[![Custom badge](https://img.shields.io/badge/devdojo-100000?style=for-the-badge&logo=devdojo&logoColor=white)](https://devdojo.com/axalllldev) -->
 ---
 
 <h3 align="center">
@@ -98,7 +98,7 @@ Here are some of my demo projects to convince you
 
 - Application
 
-  Mobile-Application build with backend node js and flutter [mobile-demo-app-android](https://github.com/sip-userbot) [desktop-demo-app-linux](https://github.com/assets/demo)
+  Mobile-Application build with backend node js and flutter [mobile-demo-app-android](https://github.com/axallll) [desktop-demo-app-linux](https://github.com/assets/demo)
 
 - Bot
 
@@ -107,11 +107,11 @@ Here are some of my demo projects to convince you
 
 - Backend
 
-  here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/sip-userbot/free-api-dev)
+  here is a demo and open source backend using node js, the demo is not full there is crud for fear of being misused, [repo](https://github.com/axallll/free-api-dev)
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
-- [how to install flutter on google cloud shell service along with app build](https://dev.to/sip-userbotdev/how-to-install-flutter-on-google-cloud-shell-service-along-with-app-build-5eii)
+- [how to install flutter on google cloud shell service along with app build](https://dev.to/xyloid-userbotdev/how-to-install-flutter-on-google-cloud-shell-service-along-with-app-build-5eii)
 <!-- BLOG-POST-LIST:END -->
 
 ## Funding
@@ -119,7 +119,7 @@ Here are some of my demo projects to convince you
 Support saya untuk mengembangkan project saya yang di github / menyemangatin saya dalam koding.
 - Main
 [![Paypal-Badge](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/nathdev)
-[Saweria](https://saweria.co/sip-userbotdev)
+[Saweria](https://saweria.co/xyloid-userbotdev)
 - Cyrpto Coin
   ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) ```sasas```
   ![](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
@@ -129,29 +129,29 @@ Support saya untuk mengembangkan project saya yang di github / menyemangatin say
 
 ---
 ## 🔥 Streak stats
-<p align="center"><a href="https://github.com/sip-userbot"><img src="https://github-readme-stats.vercel.app/api?username=sip-userbot&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/sip-userbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sip-userbot&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/axallll-"><img src="https://github-readme-stats.vercel.app/api?username=axallll&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/s-userbot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axallll&theme=radical&layout=compact"></a></p> 
 
 # My App 
 <details>
   <summary>Crypto Wallet</summary>
   
-![](https://github.com/sip-Userbot/sip-userbot/blob/main/flutter/crypto_wallet/crypto_wallet.png)
+![](https://github.com/xyloid-Userbot/xyloid-userbot/blob/main/flutter/crypto_wallet/crypto_wallet.png)
 
 </details>
 
 <details>
   <summary>Nft Simple APP</summary>
   
-![](https://github.com/sip-Userbot/sip-userbot/blob/main/flutter/nft_simple_app/1.png)
-![](https://github.com/sip-Userbot/sip-userbot/blob/main/flutter/nft_simple_app/2.png)
+![](https://github.com/axallll/axallll/blob/main/flutter/nft_simple_app/1.png)
+![](https://github.com/axallll/axallll/blob/main/flutter/nft_simple_app/2.png)
 
 </details>
 
-## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Klyuserbot) 
-## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/suportNande)
-## 📲 Kontak Developer [![WhatsApp](https://img.shields.io/badge/whatsapp-1b77FF.svg?style=for-the-badge&logo=whatsapp)](https://wa.me/6281548247681)
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xyloiduserbot) 
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/supportxyloid)
+## 📲 Kontak Developer [![WhatsApp](https://img.shields.io/badge/whatsapp-1b77FF.svg?style=for-the-badge&logo=whatsapp)](https://wa.me/62895320969839)
 <br>
 
 <p>
-    <a href="https://instagram.com/Mr_cardd" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/nthwl_" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
