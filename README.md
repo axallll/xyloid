@@ -1,6 +1,6 @@
 <h3 align="center"> XYLOID-USERBOT || BRYAN</h3>
 
-![](https://user-images.githubusercontent.com/38845275/128774296-40a55843-1893-44e6-936e-5e71c7cf72de.png)
+![](https://telegra.ph/file/fe3d1adde22682a55057c.png)
 
 ---
 
